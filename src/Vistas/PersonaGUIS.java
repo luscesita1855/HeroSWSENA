@@ -82,7 +82,7 @@ public class PersonaGUIS extends javax.swing.JFrame {
             }
         });
 
-        jLabel9.setText("Telefono");
+        jLabel9.setText("Departamento");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
